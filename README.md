@@ -34,5 +34,10 @@ To get a local copy up and running, follow these simple steps:
 ## Usage
 Open `index.html` in your web browser to view the website. You can modify the HTML and CSS files to customize the content and styles as needed.
 
+## Deployment Link 
+
+https://janani150.github.io/food-restaurant/
+
+
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
